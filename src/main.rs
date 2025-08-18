@@ -5,6 +5,9 @@
 fn main() {
     print("Hello, world!");
     print("Goodbye, world!");
+
+    let a = 20;
+    println!("number of a: {}", a)
 }
 
 // a function that prints a message
